@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Open Sans';
+	font-display: swap;
+	src: url('OpenSans Bold.eot');
+	src: local('OpenSans Bold'),
+		url('../fonts/OpenSans-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-display: swap;
+	src: url('Open Sans Regular.eot');
+	src: local('OpenSans Regular'),
+		url('../fonts/OpenSans-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
